@@ -29,7 +29,7 @@ pub struct Torta {
     ostala: Vec<Nadstropje>,
 }
 
-//----------------------------------------------------------------
+//-----------------------------------------------------------------
 impl Nadstropje {
     pub fn novo(okus: Okus, preliv: Preliv) -> Self {
         Self {
@@ -41,5 +41,5 @@ impl Nadstropje {
 }
 
 impl Torta {
-    
+
 }
